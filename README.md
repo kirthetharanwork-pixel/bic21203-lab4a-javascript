@@ -1,6 +1,6 @@
 # BIC21203 Web Development — Lab 4a: Client-Side Scripting (JavaScript)
 
-**Name:** Kirthetharan Sehkar
+**Name:** Kirthetharan A/L Sehkar
 **Student ID:** AI240016
 **Faculty:** Faculty of Computer Science and Information Technology, UTHM
 
